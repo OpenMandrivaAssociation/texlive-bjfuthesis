@@ -1,6 +1,6 @@
 Name:		texlive-bjfuthesis
 Version:	59809
-Release:	1
+Release:	2
 Summary:	A thesis class for Beijing Forestry University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bjfuthesis
