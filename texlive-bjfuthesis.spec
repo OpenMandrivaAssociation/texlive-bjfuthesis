@@ -3,7 +3,7 @@ Version:	59809
 Release:	2
 Summary:	A thesis class for Beijing Forestry University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bjfuthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bjfuthesis
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bjfuthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bjfuthesis.doc.r%{version}.tar.xz
